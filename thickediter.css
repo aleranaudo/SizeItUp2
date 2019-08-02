@@ -1,0 +1,53 @@
+header{
+  background-color:white;
+  padding: 24px;
+  text-align: center;
+  color: white;
+}
+h1 {
+  color: #FF0080;
+  font-family: georgia;
+  font-size: 380%;
+  text-align: center;
+}
+h2{
+  color: #FF0080;
+  font-family: georgia;
+  font-size: 200%;
+  text-align: center;
+}
+#dietsection {
+  color: black;
+  font-family: verdana;
+  font-size: 90%;
+  text-align: left;
+}
+h3{
+  color: black;
+  font-family: verdana;
+  font-size: 100%;
+  text-align: left;
+}
+#youtube {
+  text-align:center;
+}
+#exercise{
+  color: black;
+  font-family: verdana;
+  font-size: 100%;
+  text-align: left;
+}
+#dietsubt{
+  color: #FF0080;
+  font-family: georgia;
+  font-size: 170%;
+  text-align: center;
+}
+#important {
+  color: black;
+  font-family: verdana;
+  font-size: 70%;
+  text-align: left;
+}
+footer{
+}

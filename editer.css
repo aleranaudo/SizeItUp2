@@ -1,0 +1,53 @@
+h1{
+  color:rgb(255, 51, 153);
+  font-family: "Segoe Script";
+  text-align: center;
+}
+p{
+  color:rgb(102, 102, 153);
+}
+@import url(//db.onlinewebfonts.com/c/5c452fb7a0f5751f4e94e9d84eb01154?family=Segoe+Script);
+@font-face {font-family: "Segoe Script";
+    src: url("//db.onlinewebfonts.com/t/5c452fb7a0f5751f4e94e9d84eb01154.eot");
+    src: url("//db.onlinewebfonts.com/t/5c452fb7a0f5751f4e94e9d84eb01154.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/5c452fb7a0f5751f4e94e9d84eb01154.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/5c452fb7a0f5751f4e94e9d84eb01154.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/5c452fb7a0f5751f4e94e9d84eb01154.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/5c452fb7a0f5751f4e94e9d84eb01154.svg#Segoe Script") format("svg");
+}
+body {
+  background-color: rgb(255, 204, 255);
+}
+
+#me{
+
+  height:400px;
+  width:400px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#heart{
+  height: 150px;
+  width: 100px;
+}
+
+#hoops{
+  height: 150px;
+  width: 100px;
+}
+
+#shoes{
+  height: 150px;
+  width: 100px;
+}
+
+#bb{
+  height: 150px;
+  width: 100;
+}
